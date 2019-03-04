@@ -29,7 +29,7 @@ EXTERNAL SOURCES:
     :path: "/Users/ansvia/Documents/ANSVIA/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/share_extend-1.0.4/ios"
 
 SPEC CHECKSUMS:
-  contacts_service: 64ebf2a313b34bff0acf668efac52ae402ba9be0
+  contacts_service: 765ee41ccd4bbd746e529363e324b9a051c60a00
   Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
   path_provider: f96fff6166a8867510d2c25fdcc346327cc4b259
   permission_handler: 976a8a94c3443d23fe33c11e98277d471f0e543d
